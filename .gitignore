@@ -1,2 +1,4 @@
 #ignorar carpeta de imagenes
 items_image
+#ignora el json del puerto
+.vscode
